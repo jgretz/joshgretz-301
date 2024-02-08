@@ -1,7 +1,7 @@
 const express = require("express");
 var app = express();
 
-app.get("/", function (req, res) {
+app.get("/*", function (req, res) {
   res.set("location", "https://www.joshgretz.com");
   res.status(301).send();
 });

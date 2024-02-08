@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for joshgretz-io on 2024-02-08T13:14:11-05:00
+# fly.toml app configuration file generated for joshgretz-301 on 2024-02-08T13:28:00-05:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'joshgretz-io'
+app = 'joshgretz-301'
 primary_region = 'ewr'
 
 [build]
